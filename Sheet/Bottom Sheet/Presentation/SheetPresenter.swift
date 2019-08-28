@@ -3,7 +3,7 @@
 //  Sheet
 //
 //  Created by Guilherme Rambo on 05/08/19.
-//  Copyright © 2019 Peixe Urbano. All rights reserved.
+//  Copyright © 2019 Guilherme Rambo. All rights reserved.
 //
 
 import UIKit
